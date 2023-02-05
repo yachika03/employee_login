@@ -29,7 +29,6 @@ const List = ({employees, handleEdit, handleDelete}) => {
                 <td>{employee.lastName}</td>
                 <td>{employee.email}</td>
                 <td>{employee.phoneNo}</td>
-                <td>{employee.phoneNo}</td>
                 <td>{employee.date} </td>
                 <td className="text-center">{employee.photo}</td>
                 <td className="text-right">
